@@ -69,3 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bootstrap
 - Font Awesome
 - PHPMyAdmin
+
+# Thanks for visiting
