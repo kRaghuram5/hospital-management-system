@@ -6,6 +6,9 @@ A **web-based Hospital Management System** built using PHP, MySQL, and Bootstrap
 
 ## 📌 Features
 
+---
+🔓 Feature in progress: Login pages for all roles
+
 ### 👩‍⚕️ Admin Module
 - Add, update, and remove doctors
 - Manage patients
