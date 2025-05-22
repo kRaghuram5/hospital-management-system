@@ -1,0 +1,48 @@
+body {
+    background: #f7f9fc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.main-title {
+    font-size: 48px;
+    font-weight: 600;
+    color: #000;
+}
+
+.main-icon {
+    margin: 20px 0;
+}
+
+.btn-admin {
+    background-color: #524DCC;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+}
+
+.btn-doctor {
+    background-color: #52EE09;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+}
+
+.btn-patient {
+    background-color: #FF8B25;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}

@@ -1,0 +1,14 @@
+# Ignore logs and sensitive files
+*.log
+*.tmp
+*.sql
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor and OS settings
+.vscode/
+node_modules/
+vendor/
